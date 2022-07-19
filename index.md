@@ -67,3 +67,7 @@ to clone a repository
 ```
 git clone <link>
 ```
+to send the changes to git-hosting
+```
+git push
+```
