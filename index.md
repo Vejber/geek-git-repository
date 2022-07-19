@@ -61,7 +61,7 @@
 
 Для отмены незафиксированных изменений в файлах проекта введите команду
 ```
-   git reset --hard
+   CONFLICT VEJBER
 ```
 to clone a repository
 ```
